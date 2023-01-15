@@ -1,0 +1,4 @@
+﻿  9020번.c
+D:\취업준비\코팅테스트\c\7일차\9020번\9020번.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\7일차\9020번\9020번.c(19,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  9020번.vcxproj -> D:\취업준비\코팅테스트\c\7일차\9020번\x64\Debug\9020번.exe
