@@ -1,0 +1,5 @@
+﻿  25305번.c
+D:\취업준비\코팅테스트\c\8일차\25305번\25305번.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\8일차\25305번\25305번.c(21,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\8일차\25305번\25305번.c(17,12): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  25305번.vcxproj -> D:\취업준비\코팅테스트\c\8일차\25305번\x64\Debug\25305번.exe
