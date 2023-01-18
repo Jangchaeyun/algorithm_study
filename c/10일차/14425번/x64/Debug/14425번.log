@@ -1,0 +1,7 @@
+﻿  14425번.c
+D:\취업준비\코팅테스트\c\10일차\14425번\14425번.c(30,9): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+D:\취업준비\코팅테스트\c\10일차\14425번\14425번.c(30,9): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+D:\취업준비\코팅테스트\c\10일차\14425번\14425번.c(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\10일차\14425번\14425번.c(30,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\10일차\14425번\14425번.c(34,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  14425번.vcxproj -> D:\취업준비\코팅테스트\c\10일차\14425번\x64\Debug\14425번.exe
