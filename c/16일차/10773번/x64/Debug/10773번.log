@@ -1,0 +1,4 @@
+﻿  10773번.c
+D:\취업준비\코팅테스트\c\16일차\10773번\10773번.c(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\16일차\10773번\10773번.c(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  10773번.vcxproj -> D:\취업준비\코팅테스트\c\16일차\10773번\x64\Debug\10773번.exe
