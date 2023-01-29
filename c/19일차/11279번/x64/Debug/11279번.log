@@ -1,0 +1,4 @@
+﻿  11279번.c
+D:\취업준비\코팅테스트\c\19일차\11279번\11279번.c(45,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\19일차\11279번\11279번.c(49,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  11279번.vcxproj -> D:\취업준비\코팅테스트\c\19일차\11279번\x64\Debug\11279번.exe

@@ -1,0 +1,4 @@
+﻿  11286번.cpp
+D:\취업준비\코팅테스트\c\19일차\11286번\11286번.cpp(20,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\취업준비\코팅테스트\c\19일차\11286번\11286번.cpp(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  11286번.vcxproj -> D:\취업준비\코팅테스트\c\19일차\11286번\x64\Debug\11286번.exe
