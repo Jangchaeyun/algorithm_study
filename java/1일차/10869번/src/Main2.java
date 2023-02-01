@@ -1,0 +1,27 @@
+import java.util.Scanner;
+public class Main2 {
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		int A = in.nextInt();
+		int B = in.nextInt();
+ 
+		in.close();
+		
+		StringBuilder sb = new StringBuilder();
+		sb.append(A+B);
+		sb.append("\n");
+		
+		sb.append(A-B);
+		sb.append("\n");
+		
+		sb.append(A*B);
+		sb.append("\n");
+		
+		sb.append(A/B);
+		sb.append("\n");
+		
+		sb.append(A%B);
+		
+		System.out.print(sb);
+	}
+}
