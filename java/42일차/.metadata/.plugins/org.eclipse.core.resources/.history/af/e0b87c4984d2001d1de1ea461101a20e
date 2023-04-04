@@ -1,0 +1,28 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+import java.util.StringTokenizer;
+
+public class Main {
+	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	static StringTokenizer st = new StringTokenizer("");
+	static StringBuilder sb = new StringBuilder("");
+	
+	static final int MOD = 900528;
+	static Code[] codes;
+	static String computerCode;
+	
+	static void input() throws IOException {
+		String[] line = br.readLine().split(" ");
+		codes = new Code[line.length];
+		for (int i = 0; i < line.length; i++) codes[i] = new Code(line[i], i + 1);
+		Arrays.sort(codes);
+		computerCode = br.readLine();
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
